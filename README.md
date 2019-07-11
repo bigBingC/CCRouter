@@ -1,9 +1,15 @@
 # CCRouter
 iOS项目URL跳转组件，支持携带参数
 
+### 简介
+[简介](https://www.jianshu.com/p/7c48a04d1883)
+
 ### 用途
+
 1、避免页面中直接导入头文件push或present下一个页面
+
 2、页面跳转可以由服务器控制
+
 ### 用法
 > pod 'CCRouter'
 
