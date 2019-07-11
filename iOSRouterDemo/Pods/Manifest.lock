@@ -1,0 +1,20 @@
+PODS:
+  - CCRouter (0.0.1)
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - CCRouter
+  - Masonry
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CCRouter
+    - Masonry
+
+SPEC CHECKSUMS:
+  CCRouter: ce72345025c8534a6f4fce9da284ddf30aa735c9
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+
+PODFILE CHECKSUM: 5a32e94c55c3eafa41c06c86fd3e369b75d2c807
+
+COCOAPODS: 1.6.1

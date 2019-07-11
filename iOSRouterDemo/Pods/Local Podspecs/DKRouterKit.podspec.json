@@ -1,0 +1,26 @@
+{
+  "name": "DKRouterKit",
+  "version": "0.0.1",
+  "summary": "A short description of DKRouterKit.",
+  "description": "ios路由跳转组件",
+  "homepage": "../",
+  "license": "MIT",
+  "authors": {
+    "cuibing": "cuibing@dankegongyu.com"
+  },
+  "source": {
+    "git": "",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "Class",
+    "Class/**/*.{h,m}"
+  ],
+  "exclude_files": "Class/Exclude",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}
