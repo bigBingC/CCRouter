@@ -3,7 +3,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "CCRouter"
   spec.version      = "0.0.1"
-  spec.summary      = "A short description of CCRouter."
+  spec.summary      = "CCRouter是路由跳转组件"
   spec.description  = "iOS路由跳转工具，支持携带参数"
   spec.homepage     = "https://github.com/bigBingC"
   spec.license      = "MIT"
